@@ -2,7 +2,9 @@
 
 ## Unreleased
 
-No unreleased changes yet.
+### Enhancements
+
+- Change link color mixing in notices to use `$text-color` (#5527)
 
 ## [4.28.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.1)
 

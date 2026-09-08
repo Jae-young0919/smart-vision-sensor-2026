@@ -5,7 +5,7 @@ permalink: "/docs/history/"
 excerpt: Change log of enhancements and bug fixes made to the theme.
 sidebar:
   nav: docs
-last_modified_at: '2026-08-11T09:50:01+08:00'
+last_modified_at: '2026-09-08T16:19:33+08:00'
 toc: false
 ---
 
@@ -17,7 +17,9 @@ toc: false
 {% raw %}
 ## Unreleased
 
-No unreleased changes yet.
+### Enhancements
+
+- Change link color mixing in notices to use `$text-color` [#5527](https://github.com/mmistakes/minimal-mistakes/issues/5527)
 
 ## [4.28.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.1)
 
