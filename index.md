@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title_hide: true
+title: ""
 ---
 
 # 학회/워크숍 이름
